@@ -19,4 +19,4 @@ Kaggle Titanic Dataset: https://www.kaggle.com/competitions/titanic/data
 
 ---
 
-Feel free to fork or contribute!
+*Created with ❤️ by James Ngei*
