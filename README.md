@@ -1,1 +1,1 @@
-# Titanic-Survival-Prediction_Random-Forest
+# Titanic Survival Prediction_Random Forest
